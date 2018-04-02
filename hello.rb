@@ -1,2 +1,1 @@
-print "bonjour monde hacké par Odssey"
-#etparH
+print "bonjour monde hacké par Hugo"
