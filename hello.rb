@@ -1,1 +1,1 @@
-puts "bonjour monde"
+print "bonjour monde"
